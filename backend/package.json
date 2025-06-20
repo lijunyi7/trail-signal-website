@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Claire Li",
-  "license": "ISC",
+  "author": "Junyi Li",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
