@@ -19,10 +19,11 @@ export default function LandingPage() {
     >
       <div className="gradient-overlay"></div>
       <nav className="navbar">
-        <div className="logo">
-          <img src="/logo.png" alt="Logo" className="navbar-logo" />
-        </div>
         <a href="/about" className="about-link">About</a>
+        <div style={{ flex: 1 }}></div>
+        <div className="logo">
+          <img src="/logo2.png" alt="Logo" className="navbar-logo" />
+        </div>
       </nav>
       <section className="hero-content">
         <h1 className="main-headline">Find cell signal on your hike – even offline</h1>
